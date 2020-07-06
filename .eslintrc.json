@@ -27,6 +27,7 @@
   ],
   "rules": {
     "prettier/prettier": "error",
+    "@typescript-eslint/interface-name-prefix":  "off",
     "import/extensions" : [
       "error",
       "ignorePackages",
